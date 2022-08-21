@@ -1,0 +1,12 @@
+.but{
+    border: 0;
+    padding: 17px;
+    background-color: gold;
+}
+.but:hover{
+    background-color: green;
+    color: #fff;
+}
+.but:active{
+    background-color: red;
+}
